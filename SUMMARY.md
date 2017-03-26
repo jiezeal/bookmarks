@@ -1,1 +1,1 @@
-* [空白目录](default.md)
+* [[bookmarks] 书签]([bookmarks] 书签.md)
