@@ -41,3 +41,4 @@ tonsky/FiraCode：[https://github.com/tonsky/FiraCode](https://github.com/tonsky
 CamelCase：[https://plugins.jetbrains.com/plugin/7160-camelcase](https://plugins.jetbrains.com/plugin/7160-camelcase)  
 PHP 调用淘宝 IP 地址解析获取对应的地理位置信息：[https://tiicle.com/items/51/php-call-taobao-ip-address-resolution-for-the-corresponding-location-information](https://tiicle.com/items/51/php-call-taobao-ip-address-resolution-for-the-corresponding-location-information)  
 Laravel教程 九：Eloquent Relationship：[https://www.laravist.com/blog/post/programming-with-laravel-5-eloquent-relatiosnhsip-many-to-many](https://www.laravist.com/blog/post/programming-with-laravel-5-eloquent-relatiosnhsip-many-to-many)  
+[https://school.scotch.io/laravel-eloquent-relationships/one-to-one](https://school.scotch.io/laravel-eloquent-relationships/one-to-one)  
