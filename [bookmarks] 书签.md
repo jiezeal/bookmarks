@@ -43,3 +43,4 @@ PHP 调用淘宝 IP 地址解析获取对应的地理位置信息：[https://tii
 Laravel教程 九：Eloquent Relationship：[https://www.laravist.com/blog/post/programming-with-laravel-5-eloquent-relatiosnhsip-many-to-many](https://www.laravist.com/blog/post/programming-with-laravel-5-eloquent-relatiosnhsip-many-to-many)  
 [https://school.scotch.io/laravel-eloquent-relationships/one-to-one](https://school.scotch.io/laravel-eloquent-relationships/one-to-one)  
 搭建自己的 sentry 服务：[https://laravel-china.org/articles/4285/build-your-own-sentry-service](https://laravel-china.org/articles/4285/build-your-own-sentry-service)  
+thinkphp整合系列之微信公众号支付：[http://baijunyao.com/article/78](http://baijunyao.com/article/78)  
