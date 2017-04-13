@@ -45,4 +45,4 @@ Laravel教程 九：Eloquent Relationship：[https://www.laravist.com/blog/post/
 搭建自己的 sentry 服务：[https://laravel-china.org/articles/4285/build-your-own-sentry-service](https://laravel-china.org/articles/4285/build-your-own-sentry-service)  
 thinkphp整合系列之微信公众号支付：[http://baijunyao.com/article/78](http://baijunyao.com/article/78)  
 模板世界：[http://www.templatesy.com/](http://www.templatesy.com/)  
-PHPBONE[PHP分词系统]：[http://www.phpbone.com/phpanalysis/](http://www.phpbone.com/phpanalysis/)
+PHPBONE[PHP分词系统]：[http://www.phpbone.com/phpanalysis/](http://www.phpbone.com/phpanalysis/)  
