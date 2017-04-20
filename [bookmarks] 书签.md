@@ -47,4 +47,4 @@ thinkphp整合系列之微信公众号支付：[http://baijunyao.com/article/78]
 模板世界：[http://www.templatesy.com/](http://www.templatesy.com/)  
 PHPBONE[PHP分词系统]：[http://www.phpbone.com/phpanalysis/](http://www.phpbone.com/phpanalysis/)  
 MAC上git版本管理软件SourceTree的使用：[https://www.zybuluo.com/Sweetfish/note/516129](https://www.zybuluo.com/Sweetfish/note/516129)  
-Git统计分析工具：
+Git统计分析工具：[https://github.com/ejwa/gitinspector](https://github.com/ejwa/gitinspector)  
