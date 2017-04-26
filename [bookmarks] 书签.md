@@ -49,3 +49,4 @@ PHPBONE[PHP分词系统]：[http://www.phpbone.com/phpanalysis/](http://www.phpb
 MAC上git版本管理软件SourceTree的使用：[https://www.zybuluo.com/Sweetfish/note/516129](https://www.zybuluo.com/Sweetfish/note/516129)  
 Git统计分析工具：[https://github.com/ejwa/gitinspector](https://github.com/ejwa/gitinspector)  
 Laravel的基于角色的访问控制方案：[https://github.com/santigarcor/laratrust/tree/3.2](https://github.com/santigarcor/laratrust/tree/3.2)  
+MySQL 5.7 新特性 JSON 的创建，插入，查询，更新：[http://www.lnmp.cn/mysql-57-new-features-json.html](http://www.lnmp.cn/mysql-57-new-features-json.html)  
