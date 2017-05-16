@@ -51,4 +51,3 @@ Git统计分析工具：[https://github.com/ejwa/gitinspector](https://github.co
 Laravel的基于角色的访问控制方案：[https://github.com/santigarcor/laratrust/tree/3.2](https://github.com/santigarcor/laratrust/tree/3.2)  
 MySQL 5.7 新特性 JSON 的创建，插入，查询，更新：[http://www.lnmp.cn/mysql-57-new-features-json.html](http://www.lnmp.cn/mysql-57-new-features-json.html)  
 Bootstrap日期和时间表单组件：[http://www.bootcss.com/p/bootstrap-datetimepicker/](http://www.bootcss.com/p/bootstrap-datetimepicker/)  
-Using Repository Pattern in Laravel 5：[https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/)  
