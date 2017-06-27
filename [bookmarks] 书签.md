@@ -54,3 +54,4 @@ Bootstrap日期和时间表单组件：[http://www.bootcss.com/p/bootstrap-datet
 Html如何设置元素水平居中：[http://jingyan.baidu.com/article/3c343ff7f22c930d377963b5.html?qq-pf-to=pcqq.discussion](http://jingyan.baidu.com/article/3c343ff7f22c930d377963b5.html?qq-pf-to=pcqq.discussion)  
 免费在线作图，实时协作：[https://www.processon.com/](https://www.processon.com/)  
 Iconfont-阿里巴巴矢量图标库：[http://www.iconfont.cn/](http://www.iconfont.cn/)  
+tinymce编辑器：[https://www.tinymce.com/](https://www.tinymce.com/)  
