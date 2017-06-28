@@ -56,3 +56,4 @@ Html如何设置元素水平居中：[http://jingyan.baidu.com/article/3c343ff7f
 Iconfont-阿里巴巴矢量图标库：[http://www.iconfont.cn/](http://www.iconfont.cn/)  
 tinymce编辑器：[https://www.tinymce.com/](https://www.tinymce.com/)  
 Laravel-Administrator：[https://github.com/FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator)  
+Laravel - 从百草园到三味书屋 "From Apprentice To Artisan"：[https://my.oschina.net/zgldh/blog/389246](https://my.oschina.net/zgldh/blog/389246)  
